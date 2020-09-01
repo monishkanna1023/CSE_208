@@ -1,2 +1,2 @@
 # CSE_208
-Assignments.
+Assignments are uploaded to this repo.
