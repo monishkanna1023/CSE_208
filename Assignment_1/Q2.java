@@ -9,7 +9,7 @@ public class Q2 {
 
 class Music{
     void favorite_song(){
-        System.out.println("My current favorite dong is Marilyn Monroe by Pharell Williams.");
+        System.out.println("My current favorite song is Marilyn Monroe by Pharell Williams.");
     }
 }
 
