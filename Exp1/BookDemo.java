@@ -22,7 +22,7 @@ class TextBook{
     void Display(){
         System.out.println("Name of the Book :"+ BookName);
         System.out.println("Author           :"+ BookAuthor);
-        System.out.println("Book             :"+ BookID);
+        System.out.println("Book ID          :"+ BookID);
         System.out.println("/--------------------------------------------------------------------------------------------------------------------------/");
     }
 }
