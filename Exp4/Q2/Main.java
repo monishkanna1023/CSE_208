@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) throws Mark_Exception {
         Scanner sc = new Scanner(System.in);
         StudentClass[] Student = new StudentClass[10];
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 10; i++) {
             Student[i] = new StudentClass();
             Student[i].GetName();
             try {
@@ -18,7 +18,7 @@ public class Main {
         
         System.out.println("#######################################################################################################");
             System.out.print("---------------------------------------MARKSHEET---------------------------------------");
-            for (int i=0; i<3; i++){
+            for (int i=0; i<10; i++){
                 Student[i].ShowStudentInfo();
             }
         sc.close();               
