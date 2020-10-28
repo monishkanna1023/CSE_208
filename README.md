@@ -1,2 +1,2 @@
 # CSE_208
-Assignments are uploaded to this repo.
+Assignments and weekly assignments are uploaded to this repo.
